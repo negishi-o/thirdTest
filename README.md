@@ -31,3 +31,5 @@
 
 区切り線
 - - -
+
+![](https://img.shields.io/badge/ver.-1.0-ff0000.svg)
